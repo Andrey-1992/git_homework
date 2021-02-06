@@ -1,1 +1,6 @@
 I'm learning how to use Git and is great !
+next steps:
+1. git add
+2. git commit -m
+3. git status
+4. git push origin main 
